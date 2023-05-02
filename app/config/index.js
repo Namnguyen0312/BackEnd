@@ -5,7 +5,7 @@ const config = {
     db: {
         url:
             process.env.MONGODB_URI ||
-            `mongodb+srv://van:0312@websitecontact.au3nozz.mongodb.net/Project`,
+            `mongodb+srv://van:0312@websitecontact.au3nozz.mongodb.net/test`,
     },
 };
 module.exports = config;
